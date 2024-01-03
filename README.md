@@ -1,0 +1,1 @@
+O script fornecido anteriormente exibe informações sobre o usuário, incluindo a senha (mas de forma ofuscada) e, em seguida, solicita ao usuário que pressione qualquer tecla para continuar e altera a senha.
